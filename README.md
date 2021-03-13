@@ -1,7 +1,7 @@
 # Snakelike-Sorting-Game
 
 ## How the program run:
-![](https://github.com/Martin-Mai/NASM-64-Skeleton-Program/blob/main/Demo/Inorder.jpg)
+![](https://github.com/Martin-Mai/Snakelike-Sorting-Game/blob/main/SortingFlow.jpg)
 
 ## Technique:
 Alternately sorting the rows and columns in Shearsort. The numbers to be sorted appear in a snakelike order after log2N+1 phases. 
