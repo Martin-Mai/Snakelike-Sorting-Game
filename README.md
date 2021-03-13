@@ -19,3 +19,5 @@ to as a thread, and creation and control over these flows is achieved by making 
 the POSIX Threads API. You can find plenty of online resources to learns about the API.
 Essentially you need to know how to (1) create threads, (2) terminate threads, and (3) use
 mutex variables.
+
+![](https://github.com/Martin-Mai/Snakelike-Sorting-Game/blob/main/Output.jpg)
